@@ -17,3 +17,5 @@ flask-clean-arch/
 ├── requirements.txt
 └── run.py
 ```
+
+### Giới thiệu về kiến trúc 
